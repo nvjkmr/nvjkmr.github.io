@@ -1,4 +1,4 @@
-#Welcome to my web page
+#Vijay Kumar
 
 ### About Me
 Basically, I enjoy the Internet, computers, blogging, traveling and socializing with quality people. For me, it has been always about leaving the world in a better place than we've found it!
@@ -18,4 +18,4 @@ I've previous worked on [usersys](https://github.com/VijayKumarHackr/usersys), t
 ### Support or Contact
 @VijayKumarHackr is my handle on Twitter, Facebook and GitHub. You can email me [here](mailto:nvijaykumar2012@gmail.com) or find me as `C0r3` on Freenode.
 
-I share my opinions & experiences at [blog.nvijaykumar.me](http://blog.nvijaykumar.me)
+I share my opinions & experiences at [http://blog.nvijaykumar.me/](http://blog.nvijaykumar.me/)

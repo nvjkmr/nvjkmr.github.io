@@ -1,7 +1,7 @@
-#I'm Vijay Kumar
+# Vijay Kumar
 
 ### About Me
-Basically, I enjoy the Internet, computers, blogging, traveling and socializing with quality people. For me, it has been always about leaving the world in a better place than we've found it!
+I'm amused by the Internet, computers, blogging, traveling and socializing with quality people. For me, it has been always about learning something new and solving engineering puzzles!
 
 ### Views & Philosophy
 Although I'm new to real world programming challenges, I've always had a will to contribute free software to the open source community. And yes, if you are wondering about the 'hacker' word in my username, then I wish to add this:

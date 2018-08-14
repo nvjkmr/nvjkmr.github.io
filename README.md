@@ -13,6 +13,6 @@ Although I'm new to real world programming challenges, I've always had a will to
 I'm basically jack of most things (Internet and software) and master of none! I began programming simple web applications in 2012 using PHP and then learned C, Python, JavaScript and finally stuck with NodeJS. I'm a Linux lover and an open source enthusiast.
 
 ### Support or Contact
-@VijayKumarHackr is my handle on Twitter, Facebook and GitHub. You can email me [here](mailto:nvijaykumar2012@gmail.com) or find me as `C0r3` on Freenode.
+@VijayKumarHackr is my Twitter handle. You can email me at nvijaykumar2012 [at] gmail [dot] com or find me as `C0r3` on Freenode.
 
 I share my opinions & experiences at [http://blog.nvijaykumar.me/](http://blog.nvijaykumar.me/)

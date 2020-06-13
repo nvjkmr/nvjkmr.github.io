@@ -9,9 +9,9 @@ Previously, I was working Treebo Hotels where I worked on the revamp of the cent
 
 Prior to Treebo, I was leading the tech team at Omnify, Inc. and was primarily working on the scaling and architecting both frontend & backend systems.
 
-### Support or Contact
+### Links
 
-[Twitter](https://www.twitter.com/nvjkmr)
-[LinkedIn](https://www.linkedin.com/in/nvjkmr/)
-[Blog](http://blog.nvijaykumar.me/)
+[Twitter](https://www.twitter.com/nvjkmr) | 
+[LinkedIn](https://www.linkedin.com/in/nvjkmr/) | 
+[Blog](http://blog.nvijaykumar.me/) | 
 [RSS](https://blog.nvijaykumar.me/rss)

@@ -8,7 +8,7 @@ When Vijay is not busy typing away on his keyboard, you can find him exploring h
 
 But coffee isn't the only thing that piques Vijay's interest. He also has a deep fascination for human behavior and psychology, and enjoy learning more about it through various mediums. Vijay's love for reading is also noteworthy, and he is known to devour books across various genres (mostly non-fiction).
 
-When it's time to unwind, Vijay likes to sit back with a good scotch and enjoy a relaxing evening. He is also a polyglot, with fluency in English, Hindi, Telugu, Odiya; familiar with Kannada & Tamil, and actively learning Spanish (at the time of this writing).
+When it's time to unwind, Vijay likes to sit back with a good scotch and enjoy a relaxing evening. He is also a polyglot, with fluency in English, Hindi, Telugu, Odiya; familiar with Marathi, Kannada & Tamil, and actively learning Spanish (at the time of this writing).
 
 In addition to the above interests, Vijay has a knack for organization and productivity, and enjoys experimenting with new tools and techniques to optimize their workflow. He enjoys keeping things in order, whether it's his desk or his digital files (I use the PARA method).
 
@@ -18,7 +18,7 @@ However, he believes that life is not just about work, but a wonderful journey o
 
 ### Links
 
-[Twitter](https://www.twitter.com/nvjkmr) | 
-[LinkedIn](https://www.linkedin.com/in/nvjkmr/) | 
 [Blog](http://blog.nvijaykumar.me/) | 
-[RSS](https://blog.nvijaykumar.me/rss)
+[RSS](https://blog.nvijaykumar.me/rss) | 
+[Twitter](https://www.twitter.com/nvjkmr) | 
+[LinkedIn](https://www.linkedin.com/in/nvjkmr/)

@@ -3,6 +3,7 @@
 ### About Me
 
 Meet Vijay.
+
 Engineer by trade, explorer by instinct, and a collector of experiences in between.
 
 He’s built backend systems, data pipelines, and architectures sturdy enough to keep trucks rolling across America (literally, at Motive Inc.), and has left his fingerprints on Razorpay and Treebo along the way. But don’t let the code fool you. Vijay isn’t the kind of guy who lives only inside a terminal window.
